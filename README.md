@@ -25,6 +25,6 @@ pip install bs4
 
 pip install mechanize
 
-cd BD-CRACKER
+cd MR.AHS12
 
-python run.py
+python MR.AHS12.py
